@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Oliver/Documents/Visual Studio 2015/Projects/TerrainFinal/TerrainFinal/Content/grass.bmp</File>
+    <File>C:/Users/Oliver/Documents/Visual Studio 2015/Projects/TerrainFinal/TerrainFinal/Content/terrain.bmp</File>
+    <File>C:/Users/Oliver/Documents/Visual Studio 2015/Projects/TerrainFinal/TerrainFinal/Content/rock.bmp</File>
+    <File>C:/Users/Oliver/Documents/Visual Studio 2015/Projects/TerrainFinal/TerrainFinal/Content/sand.bmp</File>
+    <File>C:/Users/Oliver/Documents/Visual Studio 2015/Projects/TerrainFinal/TerrainFinal/Content/snow.bmp</File>
+    <File>C:/Users/Oliver/Documents/Visual Studio 2015/Projects/TerrainFinal/TerrainFinal/Content/weightMap.bmp</File>
+    <File>C:/Users/Oliver/Documents/Visual Studio 2015/Projects/TerrainFinal/TerrainFinal/Content/noise_texture.bmp</File>
+    <File>C:/Users/Oliver/Documents/Visual Studio 2015/Projects/TerrainFinal/TerrainFinal/Content/TerrainEffect.fx</File>
+    <File>C:/Users/Oliver/Documents/Visual Studio 2015/Projects/TerrainFinal/TerrainFinal/Content/tree_billboard.png</File>
+    <File>C:/Users/Oliver/Documents/Visual Studio 2015/Projects/TerrainFinal/TerrainFinal/Content/BillboardEffect.fx</File>
+    <File>C:/Users/Oliver/Documents/Visual Studio 2015/Projects/TerrainFinal/TerrainFinal/Content/grass_map.bmp</File>
+    <File>C:/Users/Oliver/Documents/Visual Studio 2015/Projects/TerrainFinal/TerrainFinal/Content/grass_billboard.png</File>
+    <File>C:/Users/Oliver/Documents/Visual Studio 2015/Projects/TerrainFinal/TerrainFinal/Content/cloud2.png</File>
+    <File>C:/Users/Oliver/Documents/Visual Studio 2015/Projects/TerrainFinal/TerrainFinal/Content/plane.x</File>
+    <File>C:/Users/Oliver/Documents/Visual Studio 2015/Projects/TerrainFinal/TerrainFinal/Content/skysphere_mesh.FBX</File>
+    <File>C:/Users/Oliver/Documents/Visual Studio 2015/Projects/TerrainFinal/TerrainFinal/Content/water_normal.jpg</File>
+    <File>C:/Users/Oliver/Documents/Visual Studio 2015/Projects/TerrainFinal/TerrainFinal/Content/skysphere_effect.fx</File>
+  </SourceFiles>
+</SourceFileCollection>

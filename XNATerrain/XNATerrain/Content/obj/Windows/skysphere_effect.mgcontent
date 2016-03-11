@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Oliver/Documents/Visual Studio 2015/Projects/TerrainFinal/TerrainFinal/Content/skysphere_effect.fx</SourceFile>
+  <SourceTime>2016-01-19T21:58:49.38969-08:00</SourceTime>
+  <DestFile>C:/Users/Oliver/Documents/Visual Studio 2015/Projects/TerrainFinal/TerrainFinal/Content/bin/Windows/skysphere_effect.xnb</DestFile>
+  <DestTime>2016-01-19T21:59:24.3191067-08:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2015-04-29T10:14:44-07:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2015-04-29T10:14:44-07:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

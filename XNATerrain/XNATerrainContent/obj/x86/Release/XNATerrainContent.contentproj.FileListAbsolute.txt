@@ -1,0 +1,1 @@
+C:\Users\Oliver\Documents\Visual Studio 2015\Projects\XNATerrain\XNATerrain\XNATerrainContent\obj\x86\Release\XNATerrainContent.contentprojResolveAssemblyReference.cache
